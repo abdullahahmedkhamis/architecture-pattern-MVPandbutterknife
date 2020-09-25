@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "streaming.downlodig.movies"
-        minSdkVersion 16
+        minSdkVersion 23 //16
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
